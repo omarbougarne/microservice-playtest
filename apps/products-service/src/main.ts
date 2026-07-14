@@ -10,6 +10,6 @@ async function bootstrap() {
     }
   });
   await app.listen();
-  console.log("Orders service up on 4002");
+  console.log("Products service up on 4002");
 }
 bootstrap();
